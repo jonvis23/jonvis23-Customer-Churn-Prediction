@@ -1,5 +1,5 @@
 # SyriaTel Customer Churn Analysis
-![Pic](https://media.istockphoto.com/id/1392264444/photo/telecommunication-tower-during-sunset-with-hud-graphical-internet-worldwide-connectivity-of.jpg?s=612x612&w=0&k=20&c=SnSUd8mQ2YYSR_blOCOE4p2xwS_X3CMzdzedi9IF2dQ=)
+![Pic](https://img.freepik.com/free-photo/futuristic-smart-city-with-5g-global-network-technology_53876-98438.jpg?w=900&t=st=1698041672~exp=1698042272~hmac=e0ad7bd524a30c25c7fc7a623f3001ff863be7c4ba8ef777eecbdf80e909ecba)
 
 ## Project Overview
 SyriaTel, a leading telecommunications company, is facing a significant challenge with customer churn. Churn is when customers decide to terminate their subscriptions with SyriaTel, resulting in revenue loss. To address this issue, SyriaTel aims to build a predictive model to identify customers who are likely to churn. By proactively targeting these at-risk customers with retention strategies, SyriaTel hopes to reduce churn rates and retain valuable customers.
